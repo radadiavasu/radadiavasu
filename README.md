@@ -1,4 +1,7 @@
-<a href="https://github.com/radadiavasu"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG83NHRrMXIyemRzaXpyc2Ruemk5MjRkbGE4d2Z5eG90Z3kxeWg2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="MasterHead" height="500" width="1000"></a>
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
+<br>
+
 <h1 align="center">Hi 👋, I'm Vasu Radadia</h1>
 <h3 align="center">A passionate Full Stack Developer and Data Science Enthusiast from India.</h3>
 
