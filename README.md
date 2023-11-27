@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Vasu Radadia</h1>
-<h3 align="center">A passionate Full Stack Developer and Data Science Enthusiast from India.</h3>
+<h3 align="center">A passionate Python Developer and Data Science Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radadiavasu&label=Profile%20views&color=0e75b6&style=flat" alt="radadiavasu" /> </p>
 
