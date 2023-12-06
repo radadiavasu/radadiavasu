@@ -1,4 +1,4 @@
-![Animation - 1701854672972](https://github.com/radadiavasu/radadiavasu/assets/114792837/149f6986-9d41-4844-8737-a6eabfe625d9)<p align="center">
+<p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 <br>
 
