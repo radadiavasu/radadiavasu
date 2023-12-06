@@ -1,4 +1,4 @@
-<p align="center">
+![Animation - 1701854672972](https://github.com/radadiavasu/radadiavasu/assets/114792837/149f6986-9d41-4844-8737-a6eabfe625d9)<p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 <br>
 
@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radadiavasu" alt="radadiavasu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![Uploading Animation - 1701854672972 (1).gif…]()
+![Animation - 1701854672972](https://github.com/radadiavasu/radadiavasu/assets/114792837/5e35cfe2-40cf-477e-91a6-2d2b33e9527e)
 
 - 🔭 I’m currently working on **My-Portfolio**
 
