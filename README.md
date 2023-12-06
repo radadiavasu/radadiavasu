@@ -23,6 +23,9 @@
 
 - ⚡ Fun fact **I think I am very Optimistic Guy.**
 
+![Uploading Animation - 1701854672972 (1).gif…]()
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vasu-radadiya-3788a2237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu radadiya" height="30" width="40" /></a>
