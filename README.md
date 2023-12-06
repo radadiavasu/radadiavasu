@@ -8,9 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radadiavasu&label=Profile%20views&color=0e75b6&style=flat" alt="radadiavasu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radadiavasu" alt="radadiavasu" /></a> </p>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="![Animation - 1701853950096](https://github.com/radadiavasu/radadiavasu/assets/114792837/e2e50e06-8b53-4cd8-a9db-e92ffc428de2)">
 
-![Animation - 1701853950096](https://github.com/radadiavasu/radadiavasu/assets/114792837/e2e50e06-8b53-4cd8-a9db-e92ffc428de2)
+
 
 
 - 🔭 I’m currently working on **My-Portfolio**
