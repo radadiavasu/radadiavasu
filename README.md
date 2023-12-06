@@ -10,8 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radadiavasu" alt="radadiavasu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-
+![Uploading Animation - 1701854672972 (1).gif…]()
 
 - 🔭 I’m currently working on **My-Portfolio**
 
@@ -22,9 +21,6 @@
 - 📫 How to reach me **vasuradadia850@gmail.com**
 
 - ⚡ Fun fact **I think I am very Optimistic Guy.**
-
-![Uploading Animation - 1701854672972 (1).gif…]()
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
