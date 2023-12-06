@@ -10,8 +10,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radadiavasu" alt="radadiavasu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![Animation - 1701854672972](https://github.com/radadiavasu/radadiavasu/assets/114792837/5e35cfe2-40cf-477e-91a6-2d2b33e9527e)
-
 - 🔭 I’m currently working on **My-Portfolio**
 
 - 🌱 I’m currently learning **NLP, Django, AI, Machine-Learning, Open-CV**
