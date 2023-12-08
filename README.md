@@ -1,6 +1,6 @@
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
-<br>
+<br
 
 <h1 align="center">Hi 👋, I'm Vasu Radadia</h1>
 <h3 align="center">A passionate Python Developer and Data Science Enthusiast from India.</h3>
