@@ -2,8 +2,9 @@
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 <br>
 
-<h1 align="center">Hi 👋, I'm Vasu Radadia</h1>
-<h3 align="center">A passionate Python Developer and Data Science Enthusiast from India.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radadiavasu&label=Profile%20views&color=0e75b6&style=flat" alt="radadiavasu" /> </p>
 
