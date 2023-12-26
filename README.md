@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vasuradadia850@gmail.com**
 
-- ⚡ Fun fact **I think I am very Optimistic Guy.**
+- ⚡ Fun fact **I am very Optimistic Guy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
