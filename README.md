@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vasuradadia850@gmail.com**
 
-- ⚡ Fun fact **Why programmers quit his job becasue he didn't get `arrays`.**
+- ⚡ Fun fact **Why programmers quit his job because he didn't get arrays.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
