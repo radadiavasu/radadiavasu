@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vasuradadia850@gmail.com**
 
-- ⚡ Fun fact **I am very Optimistic Guy.**
+- ⚡ Fun fact **Why programmers wuit his job becasue he didn't get `arrays`.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
