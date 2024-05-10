@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **NeuroSound** project.
 
-- 🌱 I’m currently learning **NLP, Django, AI, Machine-Learning, Open-CV**
+- 🌱 I’m currently reseraching on **NLP, Speech-to-Speech Translation, Speech & Signal Processing, AI, Machine-Learning, Deep-learning, Open-CV**
 
-- 💬 Ask me about **Django, Machine-Learning, Data-Science**
+- 💬 Ask me about **Speech Translating, Processing and Playing with it.**
 
-- 📫 How to reach me **vasuradadia850@gmail.com**
+- 📫 How to reach me **very soon**
 
-- ⚡ Fun fact **Why programmers quit his job because he didn't get arrays.**
+- ⚡ Fun fact **Why programmers quit his job because they didn't get arrays.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
