@@ -23,7 +23,7 @@
 - ⚡ Fun fact **Why programmers quit his job because they didn't get arrays.**
 
 <p align="right">
-<img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SssCP4VNy4SdMYkCL2_IhQ.gif" width="250">
+<img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SssCP4VNy4SdMYkCL2_IhQ.gif" width="350">
 <br>
 
 <h3 align="left">Connect with me:</h3>
