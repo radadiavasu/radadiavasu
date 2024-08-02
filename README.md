@@ -24,7 +24,7 @@
 
 <p align="right">
 <img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SssCP4VNy4SdMYkCL2_IhQ.gif" width="350">
-
+</p>
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
