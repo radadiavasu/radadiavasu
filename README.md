@@ -1,9 +1,7 @@
 <p align="center">
 <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130">
 <br>
-<p align="right">
-<img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SssCP4VNy4SdMYkCL2_IhQ.gif" width="130">
-<br>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vasu+Radadia!" />
@@ -23,6 +21,10 @@
 - 📫 How to reach me **very soon**
 
 - ⚡ Fun fact **Why programmers quit his job because they didn't get arrays.**
+
+<p align="right">
+<img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SssCP4VNy4SdMYkCL2_IhQ.gif" width="180">
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
