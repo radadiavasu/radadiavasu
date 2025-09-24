@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/radadiavasu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radadiavasu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vasuradadia850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu radadia" height="30" width="40" /></a>
 <a href="https://leetcode.com/vasuradadia2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vasuradadia2002" height="30" width="40" /></a> <br> <p align="right">
-<img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SssCP4VNy4SdMYkCL2_IhQ.gif" width="350">
+<!-- <img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SssCP4VNy4SdMYkCL2_IhQ.gif" width="350"> -->
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
