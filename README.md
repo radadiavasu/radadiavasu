@@ -14,13 +14,13 @@
 
 <!-- - 🔭 I’m currently working on **NeuroSound** project. -->
 
-- 🌱 I’m currently reseraching on **NLP, Speech-to-Speech Translation, Speech & Signal Processing, AI, Machine-Learning, Deep-learning, Open-CV**
+<!-- - 🌱 I’m currently reseraching on **NLP, Speech-to-Speech Translation, Speech & Signal Processing, AI, Machine-Learning, Deep-learning, Open-CV**
 
 - 💬 Let's talk about **Speech Translating, Processing and Playing with it.**
 
 - 📫 How to reach me **very soon**
 
-- ⚡ Fun fact **Why programmers quit his job because they didn't get arrays.**
+- ⚡ Fun fact **Why programmers quit his job because they didn't get arrays.** -->
 
 
 <h3 align="left">Connect with me:</h3>
