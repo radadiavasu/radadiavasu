@@ -26,6 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vasu-radadiya-3788a2237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasu radadiya" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/vasu radadia b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vasu radadia b" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/radadiavasu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radadiavasu" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/vasuradadia850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vasu radadia" height="30" width="40" /></a> -->
